@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\bin\Debug\net8.0\задание 15.exe
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\bin\Debug\net8.0\задание 15.deps.json
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\bin\Debug\net8.0\задание 15.runtimeconfig.json
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\bin\Debug\net8.0\задание 15.dll
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\bin\Debug\net8.0\задание 15.pdb
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\obj\Debug\net8.0\задание 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\obj\Debug\net8.0\задание 15.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\obj\Debug\net8.0\задание 15.AssemblyInfo.cs
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\obj\Debug\net8.0\задание 15.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\obj\Debug\net8.0\задание 15.dll
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\obj\Debug\net8.0\refint\задание 15.dll
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\obj\Debug\net8.0\задание 15.pdb
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\obj\Debug\net8.0\задание 15.genruntimeconfig.cache
+C:\Users\1\source\repos\ПР 7 КВ\задание 15\obj\Debug\net8.0\ref\задание 15.dll
