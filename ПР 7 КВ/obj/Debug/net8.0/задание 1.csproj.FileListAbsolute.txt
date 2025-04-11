@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\obj\Debug\net8.0\задание 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\obj\Debug\net8.0\задание 1.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\obj\Debug\net8.0\задание 1.AssemblyInfo.cs
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\obj\Debug\net8.0\задание 1.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\bin\Debug\net8.0\задание 1.exe
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\bin\Debug\net8.0\задание 1.deps.json
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\bin\Debug\net8.0\задание 1.runtimeconfig.json
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\bin\Debug\net8.0\задание 1.dll
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\bin\Debug\net8.0\задание 1.pdb
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\obj\Debug\net8.0\задание 1.dll
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\obj\Debug\net8.0\refint\задание 1.dll
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\obj\Debug\net8.0\задание 1.pdb
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\obj\Debug\net8.0\задание 1.genruntimeconfig.cache
+C:\Users\1\source\repos\ПР 7 КВ\ПР 7 КВ\obj\Debug\net8.0\ref\задание 1.dll
